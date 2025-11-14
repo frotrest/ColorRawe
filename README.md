@@ -41,8 +41,5 @@ npm run deploy
 ###
 
 <h2 align="left">🔗 Связанные проекты</h2>
-###
 
 <p align="left">- https://github.com/frotrest/parcel-project-template — шаблон, на котором построен ColorRawe</p>
-
-###
